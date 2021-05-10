@@ -1,8 +1,7 @@
-
 import java.io.FileInputStream;
 import java.util.Scanner;
 
-class Solution
+public class Solution1
 {
     public static void main(String args[]) throws Exception
     {
