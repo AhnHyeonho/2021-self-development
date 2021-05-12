@@ -1,7 +1,6 @@
+package day210510;
+
 import java.io.FileInputStream;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 
 class Solution4 {

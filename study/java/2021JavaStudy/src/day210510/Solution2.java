@@ -1,3 +1,5 @@
+package day210510;
+
 import java.util.Scanner;
 import java.io.FileInputStream;
 
